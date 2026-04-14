@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ethan McNab
 
-<!--
-**EthanJMcNab/EthanJMcNab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer based in Adelaide.
 
-Here are some ideas to get you started:
+🔗 [LinkedIn](https://linkedin.com/in/ethan-mcnab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building web applications using JavaScript and React, with a focus on APIs and data visualisation.
+
+## Projects
+- GitHub Analytics Dashboard (in progress)
+
+## Tech
+- JavaScript, React, HTML, CSS
+- Git, GitHub API
+
+## Currently
+- Building and refining frontend projects
+- Preparing for junior software development roles
