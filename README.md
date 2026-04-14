@@ -12,7 +12,3 @@ Currently building web applications using JavaScript and React, with a focus on 
 ## Tech
 - JavaScript, React, HTML, CSS
 - Git, GitHub API
-
-## Currently
-- Building and refining frontend projects
-- Preparing for junior software development roles
