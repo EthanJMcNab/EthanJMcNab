@@ -1,4 +1,4 @@
-# Ethan McNab
+# Ethan J McNab
 
 Junior Software Developer based in Adelaide.
 
